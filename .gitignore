@@ -1,0 +1,11 @@
+#Ignore node_modules
+node_modules
+
+#Ignore pkgscript.log
+pkgscript.log
+
+#Ignore Windows files
+Thumbs.db
+
+#Ignore Mac files
+.DS_Store
