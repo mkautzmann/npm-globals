@@ -1,0 +1,20 @@
+{
+  "name": "npm-globals",
+  "version": "1.0.0",
+  "author": "Matheus Kautzmann - @m_kautzmann",
+  "description": "My handful of useful global npm packages for development",
+  "scripts": {
+    "install": "node install-globals.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkautzmann/npm-globals.git"
+  },
+  "dependencies" : {
+    "package-script": "0.0.7"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}

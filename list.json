@@ -1,0 +1,16 @@
+{
+  "packages": [
+    "bower",
+    "grunt-cli",
+    "coffee-script@1.7.1",
+    "docpad@6.63.7",
+    "coffeelint",
+    "csslint",
+    "jshint",
+    "n",
+    "express@3.4.8",
+    "mocha",
+    "uglify-js",
+    "yo"
+  ]
+}
