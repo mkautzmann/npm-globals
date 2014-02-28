@@ -12,6 +12,7 @@
     "mocha",
     "uglify-js",
     "yo",
-    "plato"
+    "plato",
+    "supervisor"
   ]
 }
